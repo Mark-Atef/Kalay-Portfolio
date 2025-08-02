@@ -34,6 +34,7 @@ https://mark-atef.github.io/Kalay-Portfolio/
 
 
 
+
 ## 🚀 Getting Started
 
 To run this project locally:
@@ -43,6 +44,7 @@ To run this project locally:
 git clone https://github.com/Mark-Atef/Kalay-Portfolio.git
 
 # Open index.html in your browser
+
 
 ## 🧠 Lessons Learned
 

@@ -23,6 +23,7 @@ https://mark-atef.github.io/Kalay-Portfolio/
 
 ## 📁 Project Structure
 
+```
 ├── index.html
 ├── /images
 ├── /webfonts
@@ -30,9 +31,7 @@ https://mark-atef.github.io/Kalay-Portfolio/
 │ ├── styles.css
 │ └── all.min.css
 └── README.md
-
-
-
+``` 
 
 # 🚀 Getting Started
 

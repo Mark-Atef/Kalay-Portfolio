@@ -18,8 +18,7 @@ https://mark-atef.github.io/Kalay-Portfolio/
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3 (Flexbox & Grid)  
-- Google Fonts  
+- CSS3 (Flexbox)   
 - Font Awesome Icons  
 
 ## 📁 Project Structure
@@ -35,34 +34,34 @@ https://mark-atef.github.io/Kalay-Portfolio/
 
 
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 To run this project locally:
 
-```bash
-# Clone the repository
-git clone https://github.com/Mark-Atef/Kalay-Portfolio.git
+1. Clone the repository  
+   `git clone https://github.com/Mark-Atef/Kalay-Portfolio.git`
 
-# Open index.html in your browser
+2. Open `index.html` in your browser
 
+---
 
-## 🧠 Lessons Learned
-
-- Designing fully responsive pages using Flexbox and Grid  
+# 🧠 Lessons Learned
+- Designing fully responsive pages using Flexbox  
 - Writing semantic, accessible HTML  
 - Using consistent spacing, color systems, and layout patterns  
 - Improving maintainability with reusable CSS variables  
 
-## 📬 Contact
+---
+
+# 📬 Contact
 
 If you'd like to get in touch:
 
-- **Email:** yacoub.markatef@gmail.com  
-- **LinkedIn:** [www.linkedin.com/in/mark-yacoub-005711255](https://www.linkedin.com/in/mark-yacoub-005711255)  
-- **GitHub:** [github.com/Mark-Atef](https://github.com/Mark-Atef)  
+- **Email**: (mailto:yacoub.markatef@gmail.com)  
+- **LinkedIn**: (https://www.linkedin.com/in/mark-yacoub-005711255)  
+- **GitHub**: (https://github.com/Mark-Atef)  
 
 ---
 
-> © 2025 Kalay Portfolio. All rights reserved.
-
+© 2025 Kalay Portfolio. All rights reserved.
 
